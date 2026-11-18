@@ -11,7 +11,7 @@
 **A Curated Directory of SaaS Platforms & Open-Source Infrastructure for Ephemeral Sandboxes, Local Cloud Emulation, PR Preview Environments, MicroVMs & Browser Runtimes**
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Isolated-Test-Sandbox-Environment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Isolated-Test-Sandbox-Environment?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Isolated-Test-Sandbox-Environment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Isolated-Test-Sandbox-Environment?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Isolated-Test-Sandbox-Environment/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Isolated-Test-Sandbox-Environment?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -67,9 +67,9 @@ The sector is **moderately fragmented**: core container and local runtimes exhib
 ## 🔓 Open-Source GitHub Projects
 
 > [!TIP]  
-> Sorted descending by GitHub stargazers count. Star badges link directly to each repository's stargazers community page.
+> Sorted descending by GitHub stargazers count. Stars_Badges link directly to each repository's stargazers community page.
 
-| Project | GitHub Stars Badge | Category / Architecture | Description |
+| Project | GitHub_Stars_Badge | Category / Architecture | Description |
 | :--- | :--- | :--- | :--- |
 | **[Daytona](https://github.com/daytonaio/daytona)** | [![Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers) | Development Environment Manager | Open-source development environment manager that automates standardized, isolated workspace environments with a single command. |
 | **[Coolify](https://github.com/coollabsio/coolify)** | [![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social&color=white)](https://github.com/coollabsio/coolify/stargazers) | Self-Hosted PaaS & Previews | Self-hosted, privacy-first alternative to Heroku/Vercel featuring automated pull-request preview deployments inside isolated containers. |
@@ -123,7 +123,7 @@ Contributions are warmly welcomed! 🌟 Follow these steps:
 
 1. 🍴 **Fork the repository**.
 2. 🌿 Create your feature branch (`git checkout -b feature/awesome-addition`).
-3. 📝 Add your tool adhering to alphabetical/star ordering and include factual starting prices or star badges.
+3. 📝 Add your tool adhering to alphabetical/star ordering and include factual starting prices or Stars_Badges.
 4. 🚀 Open a Pull Request with a clear description of the sandbox or preview capability.
 
 ---
